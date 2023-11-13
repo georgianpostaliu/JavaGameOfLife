@@ -2,6 +2,7 @@
 Introduction
 
 This Java project implements Conway's Game of Life, a cellular automaton devised by the mathematician John Conway. The game consists of a grid of cells, each of which can be in one of two states: alive or dead. The cells evolve over time based on a set of rules, creating interesting patterns and behaviors. The project includes a Life class that manages the game's logic and a Board class that represents the grid.
+
 Life Class
 Constants
 
